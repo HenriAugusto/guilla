@@ -1,0 +1,7 @@
+#N canvas 320 203 355 199 10;
+#X text 92 147 created by Henri Augusto Bisognini;
+#X text 24 14 Guilla library of abstractions;
+#X text 25 44 https://github.com/HenriAugusto/Guilla;
+#X obj 29 90 guilla;
+#X text 96 84 check the help file for [guilla] too see the object list
+, f 20;
