@@ -16,7 +16,7 @@ Library of GUI objects for Pure Data created only with vanilla objects.
 
 ## Dependencies
 
-* [**easyflow library**](https://github.com/HenriAugusto/easyflow)
+* [**easyflow library**](https://github.com/HenriAugusto/easyflow) - **v0.2.0** or later
 
 ## Installing and how to use
 
